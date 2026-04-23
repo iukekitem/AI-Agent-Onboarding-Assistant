@@ -168,7 +168,7 @@ Screenshots are provided strictly to demonstrate:
 
 All evidence is redacted to avoid exposing internal data.
 
-See `/evidence`.
+See [**/evidence**](./evidence/)
 
 ---
 
